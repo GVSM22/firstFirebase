@@ -1,0 +1,10 @@
+.idea
+target/
+project
+.firebaserc
+firebase.json
+firestore.rules
+firestore.indexes.json
+src/main/resources/firstfirebase-config.json
+public
+firstFirebase.iml
